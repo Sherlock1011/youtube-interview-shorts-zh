@@ -33,7 +33,7 @@
 **1. 克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/youtube-interview-shorts-zh.git
+git clone https://github.com/Sherlock1011/youtube-interview-shorts-zh.git
 cd youtube-interview-shorts-zh
 ```
 

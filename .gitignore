@@ -1,0 +1,25 @@
+  # Python
+  __pycache__/
+  *.py[cod]
+  *$py.class
+  *.so
+  .Python
+  env/
+  venv/
+
+  # 工作区产物
+  work/
+
+  # 临时文件
+  ~$*
+  *.tmp
+  .DS_Store
+
+  # IDE
+  .vscode/
+  .idea/
+  *.swp
+
+  # Claude 本地配置
+  .claude/
+
